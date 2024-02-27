@@ -142,11 +142,11 @@ app.use(bodyParser.json());
 app.use(express.static("build"));
 app.use("/api", userRouter);
 
-Serve React app for any other route
+//Serve React app for any other route
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 app.get('*', (req, res) => {
-  /res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
+  res.sendFile(path.resolve(__dirname, 'build', 'index.html'));
 });
 
 mongoose
