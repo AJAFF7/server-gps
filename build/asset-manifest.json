@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4600f8e.css",
+    "main.js": "/static/js/main.6e110efa.js",
+    "static/media/heartattack.jpg": "/static/media/heartattack.dc01fc4b9bbe79d70c02.jpg",
+    "static/media/kurdistan7.jpg": "/static/media/kurdistan7.2952c43778d5c72ccadf.jpg",
+    "static/media/covid1.jpg": "/static/media/covid1.1d2f2dc2327ec693e3df.jpg",
+    "static/media/logout.jpg": "/static/media/logout.f4a215c5617e52c22bd0.jpg",
+    "static/media/trash.jpg": "/static/media/trash.4c385caed2a24d1f4b2c.jpg",
+    "static/media/kurdistan3.jpg": "/static/media/kurdistan3.e4d9950528e1a63dafbd.jpg",
+    "static/media/kurdistan1.jpg": "/static/media/kurdistan1.f9f1ab2441b76ae611de.jpg",
+    "static/media/kurdistan6.jpg": "/static/media/kurdistan6.3ee7f3de26e0fe9cf7c1.jpg",
+    "static/media/kurdistan2.jpg": "/static/media/kurdistan2.6dc9cb2f544c0ff20b3d.jpg",
+    "static/media/like.jpg": "/static/media/like.bf57307d1cb33eed9879.jpg",
+    "static/media/covid.jpg": "/static/media/covid.ebee305c22e6ea63da01.jpg",
+    "static/media/kurdistan5.jpg": "/static/media/kurdistan5.5fad6dc8dd5b7e5485f3.jpg",
+    "static/media/kurdistan4.jpg": "/static/media/kurdistan4.8e93edae735044b387b7.jpg",
+    "static/media/heartbeat.jpg": "/static/media/heartbeat.f93cde98639ca885f577.jpg",
+    "static/media/minimalist2.jpg": "/static/media/minimalist2.78d69d24c9bf8b50e2af.jpg",
+    "static/media/minimalist3.jpg": "/static/media/minimalist3.a9d17f796fab502431d4.jpg",
+    "index.html": "/index.html",
+    "main.f4600f8e.css.map": "/static/css/main.f4600f8e.css.map",
+    "main.6e110efa.js.map": "/static/js/main.6e110efa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4600f8e.css",
+    "static/js/main.6e110efa.js"
+  ]
+}
